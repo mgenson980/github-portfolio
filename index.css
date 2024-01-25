@@ -63,6 +63,10 @@ html {
     }
 }
 
+figcaption {
+    font-size: 70%; 
+}
+
 body {
     font-size: var(--font-size-small);
     font-family: var(--font-stack);
